@@ -1,18 +1,23 @@
 <h2> Hi there, I'm Manuel Perdomo </h2>
 
+<img align='right src="./img/perfil.jpg" width="230">
+ 
+<p><em>Information Systems Technologist and Systems Engineer<a href="https://www.univalle.edu.co/"> University of Valle </a></br>Backend Developer at<a href="https://nuwe.io">Nuwe</a></em></p>
+
+
+```javascript
+const Edgar = {
+  code: [Javascript, HTML, CSS, Java, Python,SQL],
+  tools: [React, Node, Express, Postgress,MySQL,Django],
+  ID: [VSCode],
+}
+```
+
+ 
+
 
 
 <!--
 **lonperman/lonperman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
