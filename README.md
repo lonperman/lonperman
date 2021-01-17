@@ -1,13 +1,6 @@
 <h2> Hi there, I'm Manuel Perdomo </h2>
-<style>
-.perfil {
-    width:300px;
-    height:300px;
-    border-radius:150px;
-}
-</style>
 
-<img align='right' src="./img/perfil.jpeg" width="230" id="perfil">
+<img align='right' src="./img/perfil.jpeg" width="150" id="perfil">
  
 <p><em>Information Systems Technologist and Systems Engineer<a href="https://www.univalle.edu.co/"> University of Valle </a></br>Backend Developer at <a href="https://nuwe.io">Nuwe</a></em></p>
 
