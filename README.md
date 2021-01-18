@@ -1,4 +1,7 @@
-
+<p align="left">
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/lonperman?style=social">
+ 
+</p>
 <h2> Hi there, I'm Manuel Perdomo </h2>
 
 <img align='right' src="./img/perfil.jpeg" width="150" id="perfil">
