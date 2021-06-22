@@ -6,8 +6,7 @@
 
 <img align='right' src="./img/perfil.jpeg" width="150" id="perfil">
 
-<p><em>technology and systems engineering student at the <a href="https://www.univalle.edu.co/"> University of Valle </a></br>Backend Developer at <a 
-href="https://nuwe.io">Nuwe</a></em></p>
+<p><em>technology and systems engineering student at the <a href="https://www.univalle.edu.co/"> University of Valle </a></em></p>
 
  
 ```javascript
