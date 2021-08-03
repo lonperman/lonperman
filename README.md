@@ -12,7 +12,7 @@
 ```javascript
 const Manuel = {
   code: [Javascript, HTML, CSS, Java, Python,SQL],
-  tools: [React, Node, Express, Postgress,MySQL,Django],
+  tools: [React, Node, Express, Postgress,MySQL],
   ID: [VSCode],
 }
 ``` 
