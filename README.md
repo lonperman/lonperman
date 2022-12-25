@@ -4,7 +4,7 @@
 </p>
 <h2> Hi there, I'm Manuel Perdomo </h2>
 
-<img align='right' src="./img/perfil.jpeg" width="150" id="perfil">
+<img align='right' src="./img/perfil2.jpg" width="150" id="perfil">
 
 <p><em>technology and systems engineering student at the <a href="https://www.univalle.edu.co/"> University of Valle </a></em></p>
 
