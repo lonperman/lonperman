@@ -11,7 +11,7 @@
  
 ```javascript
 const Manuel = {
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Next, Node, Express, Postgress, MySQL, AWS SAM, AWS Lambdas],
   ID: [VSCode],
 }
