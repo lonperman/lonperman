@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Manuel Alejandro Perdomo
 
-🎓 Systems and Technology Engineering student at [University of Valle](https://www.univalle.edu.co/)  
+🎓 Systems and Technology Engineer from [University of Valle](https://www.univalle.edu.co/)  
 💻 Full-stack web developer, passionate about building robust digital experiences  
 📊 Exploring the intersection between **Web Development**, **Data Analysis**, and **Artificial Intelligence**  
 
