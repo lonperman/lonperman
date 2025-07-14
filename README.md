@@ -1,21 +1,35 @@
 <p align="left">
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/lonperman?style=social">
- 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lonperman?style=social">
 </p>
-<h2> Hi there, I'm Manuel Perdomo </h2>
 
-<img align='right' src="./img/perfil3.jpg" width="150" id="perfil">
+# 👋 Hi, I'm Manuel Alejandro Perdomo
 
-<p><em>technology and systems engineering student at the <a href="https://www.univalle.edu.co/"> University of Valle </a></em></p>
+🎓 Systems and Technology Engineering student at [University of Valle](https://www.univalle.edu.co/)  
+💻 Full-stack web developer, passionate about building robust digital experiences  
+📊 Exploring the intersection between **Web Development**, **Data Analysis**, and **Artificial Intelligence**  
 
- 
-```javascript
+---
+
+## 🚀 About Me
+
+I love crafting interactive applications using modern frameworks and cloud services.  
+My current focus is on deepening my skills in data analytics and AI to bring intelligence to web products.
+
+---
+
+## 🛠️ Tech Stack
+
+```ts
 const Manuel = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Next, Node, Express, Postgress, MySQL, AWS SAM, AWS Lambdas],
-  ID: [VSCode],
-}
-``` 
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "NestJS"],
+  databases: ["PostgreSQL", "MySQL"],
+  cloud: ["AWS SAM", "AWS Lambda"],
+  data_science: ["Python", "Pandas", "Matplotlib", "scikit-learn"],
+  ai: ["TensorFlow", "Hugging Face (WIP)"],
+  tools: ["Git", "Docker", "VSCode"]
+};
+```
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonperman&theme=vue&show_icons=true" alt="My github stats" />
